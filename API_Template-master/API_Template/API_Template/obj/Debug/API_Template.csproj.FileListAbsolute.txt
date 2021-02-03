@@ -1,0 +1,2 @@
+C:\Users\Elev\Desktop\API_Template-master\API_Template\API_Template\obj\Debug\API_Template.csprojAssemblyReference.cache
+C:\Users\Elev\Desktop\API_Template-master\API_Template\API_Template\obj\Debug\API_Template.csproj.CoreCompileInputs.cache
